@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin-left: 30%;
+	margin-right: 30%;
+	padding: 0;
+	
+}
+
+
+
+.search-box{
+	
+	
+	width: 100%;
+	
+	background: white;
+	height: 40px;
+	
+	padding: 0 1px;
+	outline-color: #B8B8B8;
+	outline-style:auto;
+	margin-top: 0%;
+}
+
+.search-btn{
+	color: black;
+	float: right;
+	width: 12%;
+	height: 100%;
+	
+	border-color: #B8B8B8;
+	background: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.search-txt{
+	border: none;
+	background: none;
+	outline: none;
+	
+	padding: 0 6px;
+	color: black;
+	font-size: 23px;
+	
+	line-height: 40px;
+	width: 88%;
+}
+
+.country{
+	margin-top: 3%;
+}
+
+
+.map{
+	margin-left: 1%;
+	
+	background-color: white;
+	color:#0023B4;	
+	outline-style: solid;
+	outline-color: #0023B4;
+	outline-width: medium;
+	padding: 12px;
+	font-size: 100%;
+	text-decoration-style: solid;
+	font-weight: bolder;
+	width: 45%;
+	
+	margin-bottom: 4%;
+}
+
+.detail{
+	margin-left: 5%;
+	
+	background-color: white;
+	color:#0023B4;
+	outline-style: solid;
+	outline-color: #0023B4;
+	outline-width: medium;
+	padding: 12px;
+	font-size: 100%;
+	text-decoration-style: solid;
+	font-weight: bolder;
+	width: 45%;
+	
+	
+	margin-bottom: 4%;
+}
+
+.country,.country2{
+	outline-color: #B8B8B8;
+	outline-style:auto;
+	width: 100%;
+	
+}
+
+.country2{
+	margin-top: 2%;
+}
+
+.country-det{
+	font-weight: bolder;
+	margin-left: 0%;
+}
+
+.country-image{
+	width: 90%;
+	height: 90%;
+	
+	margin-top: 5%;
+	margin-bottom: 4%;
+	margin-left: 5%;
+}
+
+.country-image2{
+	width: 30%;
+	height: 30%;
+	margin-top: 2%;
+	margin-left: 1%;
+	margin-right: 1%;
+	outline-color: #B8B8B8;
+	outline-style:auto;
+}
+
+.head{
+	margin-top: 5%;
+}
+
+.country-name{
+	font-weight: bolder;
+	font-size: 180%;
+	
+	margin-top: 5%;
+}
+
+.neighcountry{
+	font-weight: bolder;
+	font-size: 150%;
+	
+	margin-top: 5%;
+	margin-left: 3%;
+}
